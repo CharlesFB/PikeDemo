@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "38501d28-6f22-4183-b2c1-5f184f9b05a6",
+  "files": [],
+  "subMetas": {
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "38501d28-6f22-4183-b2c1-5f184f9b05a6@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ef75": {
+      "importer": "gltf-material",
+      "uuid": "38501d28-6f22-4183-b2c1-5f184f9b05a6@2ef75",
+      "displayName": "",
+      "id": "2ef75",
+      "name": "Staves.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4a99": {
+      "importer": "gltf-material",
+      "uuid": "38501d28-6f22-4183-b2c1-5f184f9b05a6@e4a99",
+      "displayName": "",
+      "id": "e4a99",
+      "name": "Rings.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67ae4": {
+      "importer": "gltf-scene",
+      "uuid": "38501d28-6f22-4183-b2c1-5f184f9b05a6@67ae4",
+      "displayName": "",
+      "id": "67ae4",
+      "name": "barrel.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "38501d28-6f22-4183-b2c1-5f184f9b05a6@ed8b6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "38501d28-6f22-4183-b2c1-5f184f9b05a6@2ef75",
+        "38501d28-6f22-4183-b2c1-5f184f9b05a6@e4a99"
+      ],
+      "scenes": [
+        "38501d28-6f22-4183-b2c1-5f184f9b05a6@67ae4"
+      ]
+    }
+  }
+}

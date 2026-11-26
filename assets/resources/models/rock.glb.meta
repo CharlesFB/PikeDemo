@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "6b0cd1b2-4576-4a20-8a51-5f379d51cae2",
+  "files": [],
+  "subMetas": {
+    "290b5": {
+      "importer": "gltf-mesh",
+      "uuid": "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@290b5",
+      "displayName": "",
+      "id": "290b5",
+      "name": "Rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 320
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c910": {
+      "importer": "gltf-material",
+      "uuid": "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@2c910",
+      "displayName": "",
+      "id": "2c910",
+      "name": "Rock.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9a49": {
+      "importer": "gltf-scene",
+      "uuid": "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@b9a49",
+      "displayName": "",
+      "id": "b9a49",
+      "name": "rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@290b5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@2c910"
+      ],
+      "scenes": [
+        "6b0cd1b2-4576-4a20-8a51-5f379d51cae2@b9a49"
+      ]
+    }
+  }
+}

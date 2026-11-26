@@ -1,0 +1,195 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb",
+  "files": [],
+  "subMetas": {
+    "9c585": {
+      "importer": "gltf-mesh",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@9c585",
+      "displayName": "",
+      "id": "9c585",
+      "name": "Hero.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 356
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b4b1": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@0b4b1",
+      "displayName": "",
+      "id": "0b4b1",
+      "name": "Skin.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a337e": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@a337e",
+      "displayName": "",
+      "id": "a337e",
+      "name": "Tunic.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e92a3": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@e92a3",
+      "displayName": "",
+      "id": "e92a3",
+      "name": "Pants.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "10cf8": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@10cf8",
+      "displayName": "",
+      "id": "10cf8",
+      "name": "Leather.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "312bf": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@312bf",
+      "displayName": "",
+      "id": "312bf",
+      "name": "Hair.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4b54": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@f4b54",
+      "displayName": "",
+      "id": "f4b54",
+      "name": "Eyes.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c34d9": {
+      "importer": "gltf-material",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@c34d9",
+      "displayName": "",
+      "id": "c34d9",
+      "name": "Buckle.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d034d": {
+      "importer": "gltf-scene",
+      "uuid": "63876d3c-b768-44a9-8761-4eaafb54e2fb@d034d",
+      "displayName": "",
+      "id": "d034d",
+      "name": "hero.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@9c585"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@0b4b1",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@a337e",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@e92a3",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@10cf8",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@312bf",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@f4b54",
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@c34d9"
+      ],
+      "scenes": [
+        "63876d3c-b768-44a9-8761-4eaafb54e2fb@d034d"
+      ]
+    }
+  }
+}
